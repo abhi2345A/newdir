@@ -1,3 +1,5 @@
 To work on CR1- payment gateway
 
 Change to check Push
+
+Change to test pull made by team mate 
